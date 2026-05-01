@@ -1,0 +1,7 @@
+id = "quietly-solarized"
+name = "Quietly Solarized"
+version = "0.0.1"
+schema_version = 1
+authors = ["Italo Baeza C."]
+description = "Custom Solarized theme"
+repository = "https://github.com/DarkGhostHunter/QuietlySolarized"
