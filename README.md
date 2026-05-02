@@ -24,6 +24,6 @@ Zed Editor theme with a custom [Solarized palette](https://ethanschoonover.com/s
 
 ## Test in Zed Theme Builder
 
-Go to Zed Editor Theme Builder, and on the right open `Import → From URL` and paste the following:
+Go to [Zed Editor Theme Builder](https://zed.dev/theme-builder), and on the right open `Import → From URL` and paste the following:
 
     https://raw.githubusercontent.com/DarkGhostHunter/QuietlySolarized/refs/heads/main/themes/quietly-solarized.json
